@@ -7,7 +7,7 @@ A modern APT package manager frontend
 
 just cd into the directory in terminal and type make package 
 
-you need brew install with terminal @   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+you need brew install with terminal @ `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
 after brew installs add this to terminal
-brew install dpkg
+`brew install dpkg`
