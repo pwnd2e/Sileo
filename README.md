@@ -6,7 +6,7 @@ A modern APT package manager frontend
 # Info
 
 
-you need brew install with terminal @ `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+you need to install brew with terminal first `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
 
 after brew installs add this to terminal
 `brew install dpkg`
